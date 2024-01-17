@@ -174,9 +174,9 @@
 
   <nav>
     <a href="#home" onclick="showPage('home')" style="font-size: 17pt;">Home</a>
-    <a href="#menu" onclick="showPage('menu')"style="font-size: 17pt;">Menu</a>
-    <a href="#about" onclick="showPage('about')"style="font-size: 17pt;">About</a>
-    <a href="#contact" onclick="showPage('contact')"style="font-size: 17pt;">Contact</a>
+    <a href="#menu" onclick="showPage('menu')" style="font-size: 17pt;">Menu</a>
+    <a href="#about" onclick="showPage('about')" style="font-size: 17pt;">About</a>
+    <a href="#contact" onclick="showPage('contact')" style="font-size: 17pt;">Contact</a>
     <a href="#cart" onclick="showPage('cart')" style="font-size: 17pt;">Cart</a>
   </nav>
 
@@ -210,7 +210,7 @@
 			<h1>Fried Chicken</h1>
 			<h3>About Fried Chicken:</h3>
 			<h5>Fried chicken is a dish consisting of chicken pieces that have been coated with seasoned flour or batter and pan-fried, deep fried, pressure fried, or air fried. The breading adds a crisp coating or crust to the exterior of the chicken while retaining juices in the meat.</h5>
-		 <button onclick="addToCart('Fried Chicken', 120)"style="font-size: 15pt;">Php 120 Add to Cart</button>
+		 <button onclick="addToCart('Fried Chicken', 120)" style="font-size: 15pt;">Php 120 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -224,7 +224,7 @@
 			<h1>Isaw</h1>
 			<h3>About Isaw:</h3>
       <h5>Isaw is a street food made from barbecued pig or chicken intestines. It is a type of inihaw. The intestines are cleaned several times and are then either boiled, then grilled on sticks. For presentability, the intestines are usually applied with orange food coloring.</h5>
-		 <button onclick="addToCart('Isaw', 180)"style="font-size: 15pt;">Php 180 Add to Cart</button>
+		 <button onclick="addToCart('Isaw', 180)" style="font-size: 15pt;">Php 180 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -238,7 +238,7 @@
 			<h1>Tinola</h1>
 			<h3>About Tinola:</h3>
 			<h5>Tinolang manok is a Filipino chicken soup. It can consist of various chicken cuts and internal organs cooked in a flavorful broth alongside green papaya and chili pepper or malunggay leaves. The broth is usually generously seasoned with ginger, garlic, and fish sauce, and the soup is often served over plain white rice.</h5>
-		 <button onclick="addToCart('Tinola', 160)"style="font-size: 15pt;">Php 160 Add to Cart</button>
+		 <button onclick="addToCart('Tinola', 160)" style="font-size: 15pt;">Php 160 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -252,7 +252,7 @@
 			<h1>Sinigang</h1>
 			<h3>About Sinigang:</h3>
 			<h5>Sinigang is a Filipino soup or stew characterized by its sour and savory taste. It is most often associated with tamarind (Filipino: sampalok), although it can use other sour fruits and leaves as the souring agent. It is one of the more popular dishes in Filipino cuisine. The soup is usually accompanied by rice.</h5>
-		 <button onclick="addToCart('Sinigang', 140)"style="font-size: 15pt;">Php 140 Add to Cart</button>
+		 <button onclick="addToCart('Sinigang', 140)" style="font-size: 15pt;">Php 140 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -266,7 +266,7 @@
 			<h1>Kare-kare</h1>
 			<h3>About Kare-Kare:</h3>
 			<h5>Kare-kare is a stew (kare derives from "curry") that features a thick savory peanut sauce. It is generally made from a base of stewed oxtail, beef tripe, pork hocks, calves' feet, pig's feet or trotters, various cuts of pork, beef stew meat, and occasionally offal.</h5>
-		 <button onclick="addToCart('Kare-kare', 200)"style="font-size: 15pt;">Php 200 Add to Cart</button>
+		 <button onclick="addToCart('Kare-kare', 200)" style="font-size: 15pt;">Php 200 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -280,7 +280,7 @@
 			<h1>Pinakbet</h1>
       <h3>About Pinakbet:</h3>
       <h5>Pinakbet (also called pakbet) is an indigenous Filipino dish from the northern regions of the Philippines. Pinakbet is made with a variety of mixed vegetables flavored with bagoóng. The word is the contracted from the Ilokano word pinakebbet, meaning "shrunk" or "shriveled."</h5>
-		 <button onclick="addToCart('Pinakbet', 180)"style="font-size: 15pt;">Php 180 Add to Cart</button>
+		 <button onclick="addToCart('Pinakbet', 180)" style="font-size: 15pt;">Php 180 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -294,7 +294,7 @@
 			<h1>Lechon kawali</h1>
       <h3>About Lechon Kawali:</h3>
       <h5>Lechon kawali, also known as lechon de carajay or litsong kawali in Tagalog, is a Filipino recipe consisting of pork belly slabs deep-fried in a pan or wok (kawali). It is seasoned beforehand, cooked then served in cubes.</h5>
-		 <button onclick="addToCart('Lechon kawali', 250)"style="font-size: 15pt;">Php 250 Add to Cart</button>
+		 <button onclick="addToCart('Lechon kawali', 250)" style="font-size: 15pt;">Php 250 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
