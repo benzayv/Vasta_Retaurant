@@ -50,26 +50,18 @@
     .table_b {
       background-color: #FFF;
       border-radius: 10px;
-      box-shadow: 3px 3px 5px #999;
+      box-shadow: 3px 3px 5px #666;
       margin: 20px;
       padding: 20px;
-      position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-60%, 170%);
-      width: 500px
+      width: 300px;
       
     }
 
      table.table_b h2 {
-      border-bottom: 1px solid #BBB;
+      border-bottom: 1px solid #EEE;
       font-size: 1.5em;
       margin-bottom: 10px;
       padding-bottom: 5px;
-       position: absolute;
-      top: 50%;
-      left: 50%;
-      transform: translate(-60%, 180%);
     }
 
      table.table_b p {
@@ -196,7 +188,7 @@
 		 <h1>Adobo</h1>
 		 <h3>About Adobo:</h3>
 		 <h5> Adobo is a dish that is usually made with meat (chicken, pork, or beef) marinated in vinegar, soy sauce, garlic, and other spices. The meat is slowly cooked until it becomes tender and flavorful. Adobo is often served with rice and is a staple dish in many Filipino households.</h5>		 
-		 <button onclick="addToCart('Adobo', 150)"style="font-size: 15pt;">Php 150 Add to Cart</button>
+		 <button onclick="addToCart('Adobo', 150)" style="font-size: 15pt;">Php 150 Add to Cart</button>
 		 </td>
 		 </tr>
   	</table>
@@ -308,7 +300,7 @@
 			<h1>Bistek</h1>
 			<h3>About Bistek:</h3>
 			<h5>Bistek also known as bistek tagalog or karne frita, is a Filipino dish consisting of thinly-sliced beefsteak braised in soy sauce, calamansi juice, garlic, ground black pepper, and onions cut into rings.</h5>
-		 <button onclick="addToCart('Bistek', 190)"style="font-size: 15pt;">Php 190 Add to Cart</button>
+		 <button onclick="addToCart('Bistek', 190)" style="font-size: 15pt;">Php 190 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -322,7 +314,7 @@
 			<h1>Balbacua</h1>
 			<h3>About Balbacua:</h3>
 			<h5>Balbacua is a Filipino beef stew made from beef, collagen-rich beef parts (oxtail, skin, and joints), and various spices cooked for several hours until very tender.</h5>
-		 <button onclick="addToCart('Balbacua', 210)"style="font-size: 15pt;">Php 210 Add to Cart</button>
+		 <button onclick="addToCart('Balbacua', 210)" style="font-size: 15pt;">Php 210 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -336,7 +328,7 @@
 			<h1>Kaldireta</h1>
 			<h3>About Kaldireta:</h3>
 			<h5>Kaldereta or caldereta is a goat meat stew from the Philippines. Variations of the dish use (beef, chicken, or pork.)Commonly, the goat meat is stewed with vegetables and liver paste. Vegetables may include tomatoes, potatoes, olives, bell peppers, and hot peppers.</h5>
-		 <button onclick="addToCart('Kaldireta', 200)"style="font-size: 15pt;">Php 200 Add to Cart</button>
+		 <button onclick="addToCart('Kaldireta', 200)" style="font-size: 15pt;">Php 200 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -350,7 +342,7 @@
 			<h1>Afritada</h1>
 			<h3>About Afritada:</h3>
 			<h5>Afritada is a Philippine dish consisting of chicken, beef, or pork braised in tomato sauce with carrots, potatoes, and red and green bell peppers.</h5>
-		 <button onclick="addToCart('afritada', 180)"style="font-size: 15pt;">Php 180 Add to Cart</button>
+		 <button onclick="addToCart('afritada', 180)" style="font-size: 15pt;">Php 180 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -374,7 +366,7 @@
 			<h2>Cold Drinks</h2>
 			<img src="https://media.pickaroo.com/media/thumb/variant_photos/2022/5/17/PaHzqjhAMKm6WcCwjDZ6Hi_watermark_400.jpg" alt="7 Up">
 			<h1>7 Up</h1>
-		 <button onclick="addToCart('7 Up',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('7 Up',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -386,7 +378,7 @@
 			<h2>Cold Drinks</h2>
 			<img src="https://ucccafe.mugengroup.ph/wp-content/uploads/sites/4/2023/09/SPRITE-min.jpg" alt="Sprite">
 			<h1>Sprite</h1>
-		 <button onclick="addToCart('Sprite',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Sprite',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -398,7 +390,7 @@
 			<h2>Cold Drinks</h2>
 			<img src="https://amici.ph/cdn/shop/products/mug-rootbeer-can_1200x.jpg?v=1518899304" alt="Root Beer">
 			<h1>Root Beer</h1>
-		 <button onclick="addToCart('Root Beer',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Root Beer',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -410,7 +402,7 @@
 			<h2>Cold Drinks</h2>
 			<img src="https://frostingandfettuccine.com/wp-content/uploads/2022/12/Caramel-Iced-Coffee-6.jpg" alt="Ice Coffee">
 			<h1>Ice Coffee</h1>
-		 <button onclick="addToCart('Ice Coffee',70 )"style="font-size: 15pt;">Php 70 Add to Cart</button>
+		 <button onclick="addToCart('Ice Coffee',70 )" style="font-size: 15pt;">Php 70 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -422,7 +414,7 @@
 			<h2>Cold Drinks</h2>
 			<img src="https://www.alphafoodie.com/wp-content/uploads/2020/11/Orange-Juice-1-of-1.jpeg" alt="Juice">
 			<h1>Juice</h1>
-		 <button onclick="addToCart('Juice',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Juice',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -434,7 +426,7 @@
 			<h2>Hot Drinks</h2>
 			<img src="https://thehealthytart.com/wp-content/uploads/2017/03/Ginger-and-Lemon-tea.jpg" alt="Malunggay Tea">
 			<h1>Malunggay Tea</h1>
-		 <button onclick="addToCart('Malunggay Tea',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Malunggay Tea',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -446,7 +438,7 @@
 			<h2>Hot Drinks</h2>
 			<img src="https://thehealthytart.com/wp-content/uploads/2017/03/Ginger-and-Lemon-tea.jpg" alt="Ginger Tea">
 			<h1>Ginger Tea</h1>
-		 <button onclick="addToCart('Ginger Tea',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Ginger Tea',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -458,7 +450,7 @@
 			<h2>Hot Drinks</h2>
 			<img src="https://img.jakpost.net/c/2023/09/12/2023_09_12_142304_1694508173._large.jpg" alt="Blue Ternatea Tea">
 			<h1>Blue Ternatea Tea</h1>
-		 <button onclick="addToCart('Blue Ternatea Tea',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Blue Ternatea Tea',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
@@ -470,7 +462,7 @@
 			<h2>Hot Drinks</h2>
 			<img src="https://i.pinimg.com/564x/f5/6d/19/f56d19b0a266c645ffceb6c6588b5a85.jpg" alt="Kalamansi Tea">
 			<h1>Kalamansi Tea</h1>
-		 <button onclick="addToCart('Kalamansi Tea',35 )"style="font-size: 15pt;">Php 35 Add to Cart</button>
+		 <button onclick="addToCart('Kalamansi Tea',35 )" style="font-size: 15pt;">Php 35 Add to Cart</button>
 			</td>
 			</tr>
 		</table>
