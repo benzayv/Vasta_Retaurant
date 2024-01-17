@@ -1,8 +1,11 @@
+<!DOCTYPE html>
+<html>
+
 <head>
   <title>Mini Filipino Restaurant Menu</title>
   <style>
     body {
-      background: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_608,q_75,w_1080/v1/clients/houston/14657305_10153797372005583_461865778160703606_n_dda2b5a5-e545-4d51-b403-5f6206b1bd8b.jpg') ;
+      background: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_608,q_75,w_1080/v1/clients/houston/14657305_10153797372005583_461865778160703606_n_dda2b5a5-e545-4d51-b403-5f6206b1bd8b.jpg') no-repeat center center fixed;
       background-size: cover;
       font-family: Arial, sans-serif;
       margin: 0;
@@ -56,7 +59,7 @@
       position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate(-59%, 150%);
+      transform: translate(-60%, 170%);
       width: 500px
       
     }
@@ -69,7 +72,7 @@
        position: absolute;
       top: 50%;
       left: 50%;
-      transform: translate(-60%, 130%);
+      transform: translate(-60%, 180%);
     }
 
      table.table_b p {
@@ -173,11 +176,11 @@
   </header>
 
   <nav>
-    <a href="#home" onclick="showPage('home')"style="font-size: 17pt;">Home</a>
+    <a href="#home" onclick="showPage('home')" style="font-size: 17pt;">Home</a>
     <a href="#menu" onclick="showPage('menu')"style="font-size: 17pt;">Menu</a>
     <a href="#about" onclick="showPage('about')"style="font-size: 17pt;">About</a>
     <a href="#contact" onclick="showPage('contact')"style="font-size: 17pt;">Contact</a>
-    <a href="#cart" onclick="showPage('cart')"style="font-size:17pt;">Cart</a>
+    <a href="#cart" onclick="showPage('cart')" style="font-size: 17pt;">Cart</a>
   </nav>
 
   <div class="content" id="home">
@@ -356,19 +359,19 @@
 		</table>
 
 
-		<table>
-		  <tr>
-			<td>   
-			<h2>Cold Drinks</h2>
-			<img src=" https://www.encopadebalon.com/3493-large_default/coca-cola-pack-24-cans-33-cl.jpg"" alt="Cola">
-			<h1>Cola </h1>
-		 <button onclick="addToCart('Pares', 35)"style="font-size: 15pt;">Php 35 Add to Cart</button>
-			</td>
-			</tr>
-		</table>
+    <table>
+     <tr>
+     <td>   
+     <h2>Cold Drinks</h2>
+     <img src="https://www.encopadebalon.com/3493-large_default/coca-cola-pack-24-cans-33-cl.jpg" alt="Cola">
+     <h1>Cola</h1>
+     <button onclick="addToCart('Pares', 35)" style="font-size: 15pt;">Php 35 Add to Cart</button>
+     </td>
+     </tr>
+    </table>
 
 
-<table>
+    <table>
 		  <tr>
 			<td>   
 			<h2>Cold Drinks</h2>
@@ -496,7 +499,7 @@
     </div>
 
     <div class="content" id="contact" style="display: none;">
-        <div class="contact-info">
+    <div class="contact-info">
 
 
      <div>
