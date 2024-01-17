@@ -174,10 +174,10 @@
 
   <nav>
     <a href="#home" onclick="showPage('home')" style="font-size: 17pt;">Home</a>
-    <a href="#menu" onclick="showPage('menu')"style="font-size: 17pt;">Menu</a>
+    <a href="#menu" onclick="showPage('menu')" style="font-size: 17pt;">Menu</a>
     <a href="#about" onclick="showPage('about')"style="font-size: 17pt;">About</a>
     <a href="#contact" onclick="showPage('contact')"style="font-size: 17pt;">Contact</a>
-    <a href="#cart" onclick="showPage('cart')" style="font-size: 17pt;">Cart</a>
+    <a href="#cart" onclick="showPage('cart')" style="font-size:17pt;">Cart</a>
   </nav>
 
   <div class="content" id="home">
