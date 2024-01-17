@@ -2,7 +2,7 @@
   <title>Mini Filipino Restaurant Menu</title>
   <style>
     body {
-      background: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_608,q_75,w_1080/v1/clients/houston/14657305_10153797372005583_461865778160703606_n_dda2b5a5-e545-4d51-b403-5f6206b1bd8b.jpg') no-repeat center center fixed;
+      background: url('https://assets.simpleviewinc.com/simpleview/image/upload/c_fill,h_608,q_75,w_1080/v1/clients/houston/14657305_10153797372005583_461865778160703606_n_dda2b5a5-e545-4d51-b403-5f6206b1bd8b.jpg') ;
       background-size: cover;
       font-family: Arial, sans-serif;
       margin: 0;
